@@ -75,7 +75,7 @@ ${urlHost || "egroup"} = select, policy-path=${convertedUrl}
             </h1>
             <p className="mt-2 md:text-lg text-gray-600">
               一个可以将 Clash 订阅转换成 Proxy Provider 和 External
-              Group(Surge) 的工具
+              Group(Surge) 的工具!
             </p>
           </div>
         </div>
